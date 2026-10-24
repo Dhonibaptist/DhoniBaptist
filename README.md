@@ -139,9 +139,9 @@ Browse my repositories for current experiments and progress.
 
 I'm happy to connect with people working on practical engineering projects, applied AI, electronics, and software.
 
-- **GitHub:** [@DhoniBaptist](https://github.com/Dhonibaptist)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/dhoni-baptist-v-543b03370/)
-- **Email:** [YOUR_EMAIL](mailto:dhonivince07@gmail.com)
+- **GitHub:** https://github.com/Dhonibaptist
+- **LinkedIn:** https://www.linkedin.com/in/dhoni-baptist-v-543b03370/
+- **Email:** dhonivince07@gmail.com
 
 <div align="center">
 
