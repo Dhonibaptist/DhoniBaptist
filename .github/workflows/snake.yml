@@ -29,35 +29,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-**Important:** Copy the YAML code itself, not the surrounding instructions or the triple-backtick markers.
 
-## ✅ STEP 4 — Save the changes
-
-1. Click **Commit changes**.
-2. Enter the commit message: `Fix snake workflow syntax`.
-3. Confirm the commit.
-
-## ✅ STEP 5 — Run the workflow again
-
-Open:
-
-👉 [GitHub Actions for your repository](https://github.com/Dhonibaptist/Dhonibaptist/actions?utm_source=chatgpt.com)
-
-Then:
-
-1. Click **Generate Contribution Snake**.
-2. Click **Run workflow**.
-3. Select the `main` branch if asked.
-4. Click the green **Run workflow** button.
-
-Wait for the workflow to finish.
-
-- ✅ Green tick = Success.
-- ❌ Red cross = Another error to investigate.
-
-## ✅ STEP 6 — Tell me the result
-
-Bro, after running it, send me a screenshot.
-
-**We need to get that green tick first.** Then we'll verify that the `output` branch contains your snake animation and connect it to your profile README. 🐍🔥
-```
